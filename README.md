@@ -45,7 +45,7 @@ Flexibly restructure and aggregate data using just two functions: melt and 'dcas
 
 ## Dates-times
 
-### lubrydate
+### lubridate
 
 Functions to work with date-times and time-spans: fast and user friendly parsing of date-time data, extraction and updating of components of a date-time (years, months, days, hours, minutes, and seconds), algebraic manipulation on date-time and time-span objects. The 'lubridate' package has a consistent and memorable syntax that makes working with dates easy and fun. Parts of the 'CCTZ' source code, released under the Apache 2.0 License, are included in this package. See <https://github.com/google/cctz> for more details.
 
