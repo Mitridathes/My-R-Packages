@@ -104,3 +104,13 @@ biocLite("rhdf5")
 ### Reading data from other sources
 
 #### foreign 
+
+* Loads data from Minitab, S, SAS, SPSS, Stata,Systat
+* Basic functions _read.foo_
+  * read.arff (Weka)
+  * read.dta (Stata)
+  * read.mtp (Minitab)
+  * read.octave (Octave)
+  * read.spss (SPSS)
+  * read.xport (SAS)
+* See the help page for more details [http://cran.r-project.org/web/packages/foreign/foreign.pdf](http://cran.r-project.org/web/packages/foreign/foreign.pdf)
