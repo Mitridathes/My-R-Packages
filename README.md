@@ -55,6 +55,11 @@ Functions to work with date-times and time-spans: fast and user friendly parsing
 
 Simple, Consistent Wrappers for Common String Operations
 
+## Pipe operator
+
+### magrittr
+Provides a mechanism for chaining commands with a new forward-pipe operator, %>%. 
+
 ## Reading files
 ### Read excel files:
 #### xlsx 
