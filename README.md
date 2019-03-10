@@ -13,7 +13,7 @@ The goal of 'readr' is to provide a fast and friendly way to read rectangular da
 
 ### data.table 
 
-A package that is used to work with data frames in a more efficient way than the base R language does.
+A package that is used to work with large data frames in a more efficient way than the base R language does.
 
 ### sqldf
 
