@@ -3,6 +3,10 @@ A repo to remind me usefull R packages
 
 ## Analysing data frames
 
+### dtplyr
+
+This implements the data table back-end for 'dplyr' so that you can seamlessly use data table and 'dplyr' together.
+
 ### dplyr
 
 A fast, consistent tool for working with data frame like objects, both in memory and out of memory.
