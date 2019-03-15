@@ -6,6 +6,20 @@ If you have version problems with packages, you can override the default repo in
 
 install.packages("rmarkdown", repos="https://cloud.r-project.org")
 
+## Plotting data
+
+### ggplot2
+
+Create Elegant Data Visualisations Using the Grammar of Graphics.
+A system for 'declaratively' creating graphics, based on "The Grammar of Graphics". You provide the data, tell 'ggplot2' how to map 
+variables to aesthetics, what graphical primitives to use, and it takes care of the details.
+
+### lattice
+
+A powerful and elegant high-level data visualization system inspired by Trellis graphics, with an emphasis on multivariate data. Lattice 
+is sufficient for typical graphics needs, and is also flexible enough to handle most nonstandard requirements. See ?Lattice for an 
+introduction.
+
 ## Analysing data frames
 
 ### dtplyr
