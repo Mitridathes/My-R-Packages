@@ -2,9 +2,10 @@
 
 A repo to remind me usefull R packages
 
-If you have version problems with packages, you can override the default repo in your <code>install.pacakes</code> call:
+If you have version problems with packages, you can override the default repo in your <code>install.pacakes</code> call (i.e. rmarkdown
+case):
 
-install.packages("rmarkdown", repos="https://cloud.r-project.org")
+<code>install.packages("rmarkdown", repos="https://cloud.r-project.org")</code>
 
 ## Plotting data
 
