@@ -21,6 +21,12 @@ A powerful and elegant high-level data visualization system inspired by Trellis 
 is sufficient for typical graphics needs, and is also flexible enough to handle most nonstandard requirements. See ?Lattice for an 
 introduction.
 
+## Colour
+
+### RColorBrewer
+
+Provides color schemes for maps (and other graphics) designed by Cynthia Brewer as described at http://colorbrewer2.org
+
 ## Analysing data frames
 
 ### dtplyr
