@@ -149,3 +149,11 @@ biocLite("rhdf5")
   * read.spss (SPSS)
   * read.xport (SAS)
 * See the help page for more details [http://cran.r-project.org/web/packages/foreign/foreign.pdf](http://cran.r-project.org/web/packages/foreign/foreign.pdf)
+
+## Imputing the data (missing data)
+
+This uses the k nearest neighbors to calculate a values to use in place of the missing data. You may want to specify an integer k which
+indicates how many neighbors you want to average to create this replacement value. The bioconductor package (http://bioconductor.org)
+has an impute package which you can use to fill in missing data. One specific function in it is impute.knn.
+
+### bioconductor
