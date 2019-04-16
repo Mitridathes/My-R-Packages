@@ -7,6 +7,20 @@ case):
 
 <code>install.packages("rmarkdown", repos="https://cloud.r-project.org")</code>
 
+## Writing documents
+
+### knitr
+
+A General-Purpose Package for Dynamic Report Generation in R
+
+### markdown
+
+'Markdown' Rendering for R
+
+### slidify
+
+Transforms markdown documents into slide presentations
+
 ## Plotting data
 
 ### ggplot2
