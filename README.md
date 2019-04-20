@@ -21,6 +21,10 @@ A General-Purpose Package for Dynamic Report Generation in R
 
 Transforms markdown documents into slide presentations
 
+### cacher
+
+Caches data objects so in reproductible computations you don't need to recreate the whole environment.
+
 ## Plotting data
 
 ### ggplot2
