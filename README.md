@@ -7,6 +7,11 @@ case):
 
 <code>install.packages("rmarkdown", repos="https://cloud.r-project.org")</code>
 
+WARNING
+
+This caused me some problems installing other packages, so it might be done carefully.
+I had to reinstall R and RStudio removing all configs.
+
 ## Writing documents
 
 ### knitr
