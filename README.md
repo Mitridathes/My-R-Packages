@@ -161,7 +161,7 @@ biocLite("rhdf5")
 
 ### Reading data from other sources
 
-#### foreign 
+#### foreign
 
 * Loads data from Minitab, S, SAS, SPSS, Stata,Systat
 * Basic functions _read.foo_
@@ -180,3 +180,10 @@ indicates how many neighbors you want to average to create this replacement valu
 has an impute package which you can use to fill in missing data. One specific function in it is impute.knn.
 
 ### bioconductor
+
+## Web apps
+
+### shiny
+
+Web Application Framework for R.
+Makes it incredibly easy to build interactive web applications with R. Automatic "reactive" binding between inputs and outputs and extensive prebuilt widgets make it possible to build beautiful, responsive, and powerful applications with minimal effort.
