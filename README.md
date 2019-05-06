@@ -32,6 +32,12 @@ Caches data objects so in reproductible computations you don't need to recreate 
 
 ## Plotting data
 
+### plotly
+
+Create Interactive Web Graphics via 'plotly.js
+
+Create interactive web graphics from 'ggplot2' graphs and/or a custom interface to the (MIT-licensed) JavaScript library 'plotly.js' inspired by the grammar of graphics.
+
 ### ggplot2
 
 Create Elegant Data Visualisations Using the Grammar of Graphics.
